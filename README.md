@@ -1,2 +1,9 @@
-# twithin
-Verify that a time is before/after another time
+# tcmp
+
+Compare two timestamps.
+
+## Install
+
+```
+go get github.com/briansorahan/tcmp
+```
